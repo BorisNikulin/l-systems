@@ -1,0 +1,5 @@
+.stack-work/
+l-system.cabal
+*~
+
+*.swap
